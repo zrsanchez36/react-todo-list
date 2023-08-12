@@ -15,6 +15,7 @@ This is a morning Challenge!
 - **Part 1** : Props
     - In `List` component iterate over all the list items from the props and display all the `ListItem`
 - **Part 2** : Event Handling and State management
-    - Store the array `listItems` in state
+    - Store the array `listItems` in state in `App` component
+    - Store the text input in the state in `List` component
     - Add a new item to the list
     - Delete a item from the list
