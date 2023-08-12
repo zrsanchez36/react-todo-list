@@ -7,6 +7,8 @@ This is a morning Challenge!
 - Go to the folder and do `npm install`
 - Run `npm start` 
 - Go to http://localhost:3000/
+  ![image](https://github.com/ankurbag/react-todo-list/assets/3647390/7856625b-18cd-4030-a0fe-f1fe7b287a4a)
+
 
 ## Challenge
 
