@@ -10,5 +10,9 @@ This is a morning Challenge!
 
 ## Challenge
 
-- Part 1 : Use props to Display list of items
- -  In List component list over all the list items from the props and display all the `ListItem`
+- **Part 1** : Props
+    - In `List` component iterate over all the list items from the props and display all the `ListItem`
+- **Part 2** : Event Handling and State management
+    - Store the array `listItems` in state
+    - Add a new item to the list
+    - Delete a item from the list
