@@ -22,7 +22,7 @@ function App() {
     <>
       {/** PART 2: Pass clickHandler to the Header */}
       <Header title="My Notes" />
-      <List items={items} />
+      <List items={listItems} />
     </>
   );
 }
